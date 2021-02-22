@@ -20,6 +20,16 @@ h1 {
   top: -4px;
   right: 5px;
 
-  color: transparent;
-  text-shadow: 0 0 4px white;
+  color: black;
+  text-shadow: 0 0 4px rgb(3, 255, 24);
+}
+
+p {
+  position: absolute;
+  margin: 0px;
+  top: 35px;
+  right: 5px;
+  font-size: 1.5rem;
+  color: black;
+  text-shadow: 0 0 3px rgb(102, 255, 0);
 }
