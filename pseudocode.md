@@ -1,4 +1,5 @@
 Create ball
+create box for balls
 
     If 2 balls are in box
         if collision is detected
@@ -6,4 +7,3 @@ Create ball
 else
     if screen is full of random balls
         then create a collision ticker
-        
