@@ -12,7 +12,9 @@ Evil Circle
 
 display.Score if evilCircle collects a ball
 
-If one ball is controllable by user
+randomball.generates on screen
+
+One distinct ball is controllable by user;
     then w = up;
          s = down;
          a = left;
