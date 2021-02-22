@@ -6,4 +6,16 @@ create box for balls
         then changes balls colors
 else
     if screen is full of random balls
-        then create a collision ticker
+        then count collisions of each ball;
+
+Evil Circle
+
+display.Score if evilCircle collects a ball
+
+If one ball is controllable by user
+    then w = up;
+         s = down;
+         a = left;
+         d = right;
+
+    
